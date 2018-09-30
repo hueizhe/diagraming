@@ -1,4 +1,4 @@
-package com.processon.diagraming.model;
+package com.processon.diagraming.vo.msg;
 
 import com.processon.diagraming.vo.msg.Message;
 import lombok.Data;

@@ -1,5 +1,6 @@
 package com.processon.diagraming.vo.msg;
 
+import com.processon.diagraming.model.Position;
 import lombok.Data;
 
 @Data
