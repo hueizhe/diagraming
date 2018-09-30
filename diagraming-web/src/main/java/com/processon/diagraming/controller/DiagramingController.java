@@ -1,5 +1,8 @@
 package com.processon.diagraming.controller;
 
+import com.processon.diagraming.vo.def.AddVersion;
+import com.processon.diagraming.vo.msg.Msg;
+import com.processon.diagraming.vo.msg.MsgStr;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -23,14 +26,17 @@ public class DiagramingController {
 
 
     @PostMapping("/msg")
-    public void msg(){
+    public void msg(Msg msg){
 
     }
 
 
     @PostMapping("/add_version")
-    public void add_version(){
+    public void add_version(AddVersion addVersion){
 
     }
+
+
+
 
 }
