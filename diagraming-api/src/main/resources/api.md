@@ -1,5 +1,9 @@
 #  api
 
+详见 [open api](http://open.processon.com/wiki#new)
+
+
+
 ## msgStr
 
 > 请求地址
