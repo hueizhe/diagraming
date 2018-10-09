@@ -24,7 +24,6 @@
 		<module>diagraming-ui</module>
 		<module>diagraming-api</module>
 		<module>diagraming-service</module>
-		<module>diagraming-dao</module>
 		<module>diagraming-base</module>
 		<module>diagraming-model</module>
 	</modules>
